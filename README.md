@@ -7,7 +7,10 @@ This project creates a random class for Call of Duty Black Ops 4. Gives user wea
 This generator would be helpful when you are tired of using the same class setup. With this, you can switch your class setup and add some more fun to Call of Duty.
 
 ## Screenshot of Output
+![Output Screenshot](https://github.com/VintaviousG/BO4ClassGenerator/blob/master/BO4ClassGenerator_Output.png?raw=true)
 
+
+https://github.com/VintaviousG/BO4ClassGenerator/blob/master/BO4ClassGenerator_Output.png?raw=true
 
 ## Technology
 Java 8
