@@ -6,7 +6,8 @@ As I learned to code, I needed a project to build for practice. For some reason,
 This project creates a random class for Call of Duty Black Ops 4. Gives user weapons, perks, equipment, gear, and also scorestreaks.  Lack ops 4 multiplayer class setups work on a 10 point system. Meaning the class can only have 10 items maximum.
 This generator would be helpful when you are tired of using the same class setup. With this, you can switch your class setup and add some more fun to Call of Duty.
 
-![name-of-you-image](https://github.com/VintaviousG/BO4ClassGenerator/blob/master/31wb7L_0PgyuFTt00.jpeg?raw=true)
+## Screenshot of Output
+
 
 ## Technology
 Java 8
